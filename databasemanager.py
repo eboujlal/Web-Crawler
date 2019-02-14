@@ -3,15 +3,10 @@ import json
 from main import logthis
 class DatabaseManager : 
     
-    #host = "91.216.107.162"
     hostname = "localhost"
-    #user = "becal845745_34bnrj"
     username = "root"
-    #password = "37ntcqipu7"
     password = "root"
-    #dbname = "becal845745_34bnrj"
     dbname = "python"
-    #port = "3306"
     port = "3306"
     connexion = False
 
